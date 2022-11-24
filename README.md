@@ -1,7 +1,7 @@
 [![Arduino CI](https://github.com/XbergCode/Uptime/workflows/Arduino%20CI/badge.svg)](https://github.com/marketplace/actions/arduino_ci)
 [![Arduino-lint](https://github.com/XbergCode/Uptime/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/XbergCode/Uptime/actions/workflows/arduino-lint.yml)
 [![JSON check](https://github.com/XbergCode/Uptime/actions/workflows/jsoncheck.yml/badge.svg)](https://github.com/XbergCode/Uptime/actions/workflows/jsoncheck.yml)
-[![License: MIT](https://img.shields.io/github/license/XbergCode/Uptime)](https://github.com/XbergCode/Uptime/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/XbergCode/Uptime)](https://github.com/XbergCode/Uptime/blob/main/LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/XbergCode/Uptime)](https://github.com/XbergCode/Uptime/releases)
 ![code size:](https://img.shields.io/github/languages/code-size/XbergCode/Uptime)
 
