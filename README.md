@@ -53,7 +53,7 @@ The following functions are implemented:
 
 * const uint32_t getTotalSeconds();
 
-#### Uptime_array.h:
+#### UptimeString.h:
 
 > char arrays are made with snprintf_P = flash memory. It can be change to SRAM in the "UptimeString.h" library @ line 30.
 
