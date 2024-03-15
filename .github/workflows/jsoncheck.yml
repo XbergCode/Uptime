@@ -1,6 +1,6 @@
 name: JSON check
 
-on: - 'pull_request'
+on:
   push:
     paths:
       - '**.json'
